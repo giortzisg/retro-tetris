@@ -1,7 +1,7 @@
 # A simple tetris game
 A classic old style arcade inspired tetris game, with incremental difficulty like the original tetris. After every 10 lines cleared, a level is advanced and the game gets faster
 
-![Gameplay](https://github.com/giortzisg/tetris-ai/blob/master/game.png?raw=true)
+![Gameplay](https://github.com/giortzisg/retro-tetris/blob/master/game.png?raw=true)
 # CONTROLS
 
 -**UP ARROW** or **W**: Rotate Tetromino
